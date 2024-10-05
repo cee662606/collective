@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      chenm
+HostName                       DESKTOP-9EQOFHT
+ProcessIdentifier              32604
+ProcessCreationTime_UTC        1715970854
+ProcessCreationTime_Readable   Fri May 17 11:34:14 2024 Pacific Daylight Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\chenm\MyWorkspace_wrk\MyLibrary_lib\mindterm\schematic\sch.oa.cdslck
+TimeEditLocked                 Fri May 17 11:36:11 2024 Pacific Daylight Time
