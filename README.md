@@ -37,7 +37,6 @@ spikeset.cluster_membership          % Logical matrix: [spikes × clusters]
 spikeset.u                           % Mean waveform per cluster
 spikeset.params.sampling_frequency   % Sampling rate of recording
 
----
 ```
 This framework is suitable for scaling analysis and criticality diagnostics.
 The code is standalone: no external libraries or toolboxes are required. But need external data to study.
