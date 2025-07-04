@@ -30,7 +30,7 @@ This repository presents a rigorous, fully independent MATLAB-based pipeline for
 
 The primary output is a MATLAB struct named `spikeset` with the following fields:
 
-## MATLAB
+```MATLAB
 spikeset.primary.times               % Vector of spike timestamps
 spikeset.waveforms                   % 30 matrix: waveforms [channels × spikes]
 spikeset.cluster_membership          % Logical matrix: [spikes × clusters]
@@ -38,7 +38,7 @@ spikeset.u                           % Mean waveform per cluster
 spikeset.params.sampling_frequency   % Sampling rate of recording
 
 ---
-
+```
 This framework is suitable for scaling analysis and criticality diagnostics.
 The code is standalone: no external libraries or toolboxes are required. But need external data to study.
 Fully compatible with custom datasets, but assumes pre-sorted spikes with cluster metadata.
